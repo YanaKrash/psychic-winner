@@ -1,0 +1,344 @@
+body{
+    margin:0;
+    position: relative;
+height: 7367px;
+
+background: #FFF8E4;
+background-blend-mode: multiply;
+}
+.zag{
+    position: absolute;
+width: 304px;
+height: 54px;
+left: 800px;
+top: 0px;
+
+font-family: 'Playfair Display SC';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 85px;
+
+color: #000000;
+}
+.ror{
+    position: absolute;
+width: 315px;
+height: 34px;
+left: 800px;
+top: 198px;
+
+font-family: 'Playfair Display SC';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+
+color: #000000;
+
+}
+
+
+.yoy{
+    
+    position: absolute;
+width: 112px;
+height: 26px;
+left: 94px;
+top: 150px;
+
+font-family: 'Playfair Display SC';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 21px;
+
+color: #000000;
+
+}
+.yot{
+    position: absolute;
+width: 117px;
+height: 18px;
+left: 450px;
+top: 150px;
+
+font-family: 'Playfair Display SC';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 21px;
+
+color: #000000;
+
+}
+.you{
+    position: absolute;
+width: 130px;
+height: 11px;
+left: 850px;
+top: 150px;
+
+font-family: 'Playfair Display SC';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 21px;
+
+color: #000000;
+}
+.yok{
+    position: absolute;
+    width: 141px;
+    height: 12px;
+    left: 1250px;
+    top: 150px;
+    
+    font-family: 'Playfair Display SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    
+    color: #000000;
+}
+.yoj{
+    position: absolute;
+    width: 146px;
+    height: 12px;
+    left: 1600px;
+    top: 150px;
+    
+    font-family: 'Playfair Display SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 21px;
+    
+    color: #000000;
+    }
+    .ya{
+        position: absolute;
+width: 373px;
+height: 304px;
+left: 400px;
+top: 331px;
+
+background: url(ц.jpg);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+    }
+    .ay{
+        position: absolute;
+width: 304px;
+height: 304px;
+left: 1200px;
+top: 331px;
+    }
+    .rt{
+        position: absolute;
+width: 373px;
+height: 349px;
+left: 400px;
+top: 745px;
+   }
+.ty{
+    position: absolute;
+width: 403px;
+height: 344px;
+left: 1200px;
+top: 745px;
+}
+.ui{
+    position: absolute;
+width: 373px;
+height: 367px;
+left: 400px;
+top: 1223px;
+}
+.po{
+    position: absolute;
+width: 403px;
+height: 367px;
+left: 1200px;
+top: 1223px;
+}
+.as{
+    position: absolute;
+width: 416px;
+height: 283px;
+left: 400px;
+top: 1723px;
+}
+.df{
+    position: absolute;
+width: 362px;
+height: 302px;
+left: 1200px;
+top: 1704px;
+}
+.gh{
+    position: absolute;
+    width: 416px;
+    height: 351px;
+    left: 400px;
+    top: 2096px;
+}
+.jk{
+    position: absolute;
+    width: 380px;
+    height: 351px;
+    left: 1200px;
+    top: 2096px;
+}
+.lz{
+    position: absolute;
+    width: 416px;
+    height: 364px;
+    left: 400px;
+    top: 2545px;
+    
+}
+.xc{
+    position: absolute;
+    width: 350px;
+    height: 357px;
+    left: 1200px;
+    top: 2552px;
+}
+.vb{
+    position: absolute;
+width: 397px;
+height: 432px;
+left: 400px;
+top: 3009px;
+}
+.bn{
+    position: absolute;
+width: 366px;
+height: 375px;
+left: 1200px;
+top: 3037px;
+}
+.nm{
+    position: absolute;
+    width: 397px;
+    height: 372px;
+    left: 400px;
+    top: 3554px;
+}
+.mq{
+    position: absolute;
+    width: 366px;
+    height: 372px;
+    left: 1200px;
+    top: 3554px;
+}
+.mw{
+    position: absolute;
+    width: 397px;
+    height: 436px;
+    left: 400px;
+    top: 4016px;
+}
+.me{
+    position: absolute;
+    width: 403px;
+    height: 436px;
+    left: 1200px;
+    top: 4016px;
+}
+.mr{
+    position: absolute;
+    width: 397px;
+    height: 368px;
+    left: 400px;
+    top: 4562px;
+}
+.mt{
+    position: absolute;
+    width: 421px;
+    height: 290px;
+    left: 1200px;
+    top: 4601px;
+}
+.my{
+    position: absolute;
+    width: 397px;
+    height: 348px;
+    left: 400px;
+    top: 5093px;
+}
+.mu{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 1200px;
+    top: 5182px;
+}
+.mi{
+    position: absolute;
+    width: 377px;
+    height: 355px;
+    left: 400px;
+    top: 5539px;
+}
+.mo{
+    position: absolute;
+    width: 324px;
+    height: 301px;
+    left: 1200px;
+    top: 5563px;
+}
+.mp{
+    position: absolute;
+    width: 369px;
+    height: 328px;
+    left: 400px;
+    top: 6020px;
+}
+.ma{
+    position: absolute;
+    width: 379.46px;
+    height: 332.44px;
+    left: 1200px;
+    top: 6020px;
+}
+.ms{
+    position: absolute;
+    width: 355px;
+    height: 320px;
+    left: 400px;
+    top: 6476px;
+}
+.nq{
+    position: absolute;
+    width: 340px;
+    height: 310px;
+    left: 1200px;
+    top: 6486px;
+}
+.nw{
+    position: absolute;
+    width: 355px;
+    height: 265px;
+    left: 400px;
+    top: 6903px;
+}
+.ne{
+    position: absolute;
+    width: 340px;
+    height: 303px;
+    left: 1200px;
+    top: 6883px;
+}
+#tuy{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+top: 7000px;
+}
